@@ -1,0 +1,6 @@
+test.py
+test.txt
+*Logs*
+samples/
+*__pycache__*
+env/
